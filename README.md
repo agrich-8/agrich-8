@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/zRkeKuEz07wjjRNY7k" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trans-matrix-pride-zRkeKuEz07wjjRNY7k">via GIPHY</a></p>
+![Alt Text](<iframe src="https://giphy.com/embed/eCqFYAVjjDksg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
 
 ### Stack:
 
