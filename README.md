@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-FFFFF0?style=for-the-badge&logo=MySQL&logoColor=343013"/>
 
-<img src="https://img.shields.io/badge/CC%2b%2b-FFFFF0?style=for-the-badge&logo=CC%2b%2b&logoColor=343013"/>
+<img src="https://img.shields.io/badge/C%2b%2b-103247?style=for-the-badge&logo=C%2b%2b&logoColor=FFFFF0"/>
 
 <img src="https://img.shields.io/badge/Git-FFFFF0?style=for-the-badge&logo=Git&logoColor=343013"/>
 
