@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/83089491/198051648-4fcc1f03-f513-4790-87d5-72ddafbb318d.gif" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/83089491/198051648-4fcc1f03-f513-4790-87d5-72ddafbb318d.gif" width="800" height="550" />
 
 ### Stack:
 
