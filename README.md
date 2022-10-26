@@ -12,4 +12,4 @@
 
 <img src="https://img.shields.io/badge/Git-FFFFF0?style=for-the-badge&logo=Git&logoColor=343013"/>
 
-<img src="https://img.shields.io/badge/Flask-FFFFF0?style=for-the-badge&logo=Flask&logoColor=343013"/>
+<img src="https://img.shields.io/badge/CSS3-002630?style=for-the-badge&logo=CSS3&logoColor=00b6e4"/>
