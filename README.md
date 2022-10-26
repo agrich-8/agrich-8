@@ -6,4 +6,4 @@
 
 ### Socials:
 
-[<img src="https://img.shields.io/badge/Telegram-191e2c?style=for-the-badge&logo=Telegram&logoColor=0cb2e9"/>](https://github.com/agrich-8/agrich-8/edit/main/README.md)[<img src="https://img.shields.io/badge/VK-191e2c?style=for-the-badge&logo=VK&logoColor=FFFFF0"/>](https://github.com/agrich-8/agrich-8/edit/main/README.md)
+[<img src="https://img.shields.io/badge/Telegram-191e2c?style=for-the-badge&logo=Telegram&logoColor=0cb2e9"/>](https://github.com/agrich-8/agrich-8/edit/main/README.md)  [<img src="https://img.shields.io/badge/VK-191e2c?style=for-the-badge&logo=VK&logoColor=FFFFF0"/>](https://github.com/agrich-8/agrich-8/edit/main/README.md)
