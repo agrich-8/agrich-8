@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4000&pause=1000&color=00F7EC&width=600&height=55&lines=Flask+backend+developer" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00EDF7&vCenter=true&width=900&lines=Flask+backend+developer" alt="Typing SVG" /></a>
 ### Stack:
