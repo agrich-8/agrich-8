@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-FFFFF0?style=for-the-badge&logo=MySQL&logoColor=343013"/>
 
+<img src="https://img.shields.io/badge/CC%2b%2b-FFFFF0?style=for-the-badge&logo=CC%2b%2b&logoColor=343013"/>
+
 <img src="https://img.shields.io/badge/Git-FFFFF0?style=for-the-badge&logo=Git&logoColor=343013"/>
 
 <img src="https://img.shields.io/badge/CSS3-002630?style=for-the-badge&logo=CSS3&logoColor=00b6e4"/>
