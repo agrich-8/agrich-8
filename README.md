@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/83089491/198051648-4fcc1f03-f513-4790-87d5-72ddafbb318d.gif" align="center" width="600" height="400" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### Stack:
 
