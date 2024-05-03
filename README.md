@@ -1,8 +1,5 @@
 
-### Stack:
-
-<img src="https://img.shields.io/badge/Python-103247?style=for-the-badge&logo=Python&logoColor=FFFFF0"/>    <img src="https://img.shields.io/badge/Flask-0c131f?style=for-the-badge&logo=Flask&logoColor=FFFFF0"/>    <img src="https://img.shields.io/badge/FastAPI-103247?style=for-the-badge&logo=FastAPI&logoColor=020604"/>        <img src="https://img.shields.io/badge/MySQL-0a242c?style=for-the-badge&logo=MySQL&logoColor=FFFFF0"/>    <img src="https://img.shields.io/badge/C%2b%2b-091326?style=for-the-badge&logo=C%2b%2b&logoColor=FFFFF0"/>    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=FFFFF0"/>
-
+### 
 ### Socials:
 
 
